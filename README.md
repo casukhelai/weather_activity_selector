@@ -34,6 +34,8 @@ THEN I am provided a message that says "Please select your location"
 
 ## Usage
 Once the page loads, type in your city and the number of individuals (up to three) that are looking for an activity to do. Click submit and you'll have your area's weather and an activity for you to try! Refresh the page to get another activity if you want to see another activity!
+*Github Repo link: https://github.com/casukhelai/weather_activity_selector
+*Github Page: https://casukhelai.github.io/weather_activity_selector/
 
 
 ![activity_selector_gif](assets/images/demo.gif)
